@@ -52,18 +52,7 @@ Power Query
 DAX (Data Analysis Expressions)
 Data Modeling
 Interactive Visualizations
-Project Structure
-Sales-Overview-Dashboard/
-│
-├── Dashboard.pbix
-├── Dataset/
-│   └── Sales_Data.xlsx
-│
-├── Assets/
-│   └── dashboard-preview.png
-│
-└── README.md
-Business Value
+
 
 This dashboard helps organizations:
 
